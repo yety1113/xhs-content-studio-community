@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Xiaohongshu carousel starter</title>
+  <style>
+    :root { --ink:#19231f; --paper:#fffdf5; --accent:#d8ff3e; --warm:#ff7657; --line:#25312c; --grid:#d8d1b8; --card:#fff; --shadow:#d8ff3e; }
+    * { box-sizing:border-box; } body { margin:0; background:#22302a; font-family:"Microsoft YaHei",system-ui,sans-serif; }
+    .slide { position:relative; width:1080px; height:1440px; overflow:hidden; padding:78px 76px; color:var(--ink); background:var(--paper); }
+    .slide::before { content:""; position:absolute; inset:0; opacity:.35; background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px); background-size:28px 28px; pointer-events:none; }
+    .content { position:relative; z-index:1; height:100%; display:flex; flex-direction:column; }
+    .eyebrow { align-self:flex-start; padding:10px 18px; border:2px solid var(--line); border-radius:999px; font-size:25px; font-weight:800; background:var(--accent); }
+    h1 { margin:44px 0 24px; max-width:800px; font-size:88px; line-height:1.04; letter-spacing:-4px; }
+    h2 { margin:42px 0 24px; font-size:66px; line-height:1.12; letter-spacing:-2px; }
+    p { margin:0; max-width:850px; font-size:31px; line-height:1.55; font-weight:600; }
+    .card { margin-top:auto; padding:34px; border:3px solid var(--line); border-radius:28px; background:var(--card); box-shadow:12px 12px 0 var(--shadow); }
+    .big-number { font-size:132px; font-weight:900; color:var(--warm); line-height:.9; }
+    .footer { margin-top:28px; display:flex; justify-content:space-between; font-size:22px; font-weight:700; opacity:.72; }
+    body.style-s01 { --ink:#16718A; --paper:#FCFEFB; --accent:#BDECF7; --warm:#F7D74B; --line:#2397B5; --grid:#BDECF7; --card:#fff; --shadow:#BDECF7; }
+    body.style-s02 { --ink:#855020; --paper:#F7E5AC; --accent:#80A93A; --warm:#F4D34D; --line:#376D2C; --grid:#D5C17B; --card:#FFF7D8; --shadow:#80A93A; }
+    body.style-s03 { --ink:#FFFDF7; --paper:#12152A; --accent:#D7F942; --warm:#F14FB5; --line:#49D6FF; --grid:#4B5480; --card:#242947; --shadow:#F14FB5; }
+    body.style-s04 { --ink:#F7F2DE; --paper:#101514; --accent:#86A977; --warm:#DF8A4A; --line:#DF8A4A; --grid:#3C5149; --card:#1D2925; --shadow:#A95B35; }
+    body.style-s05 { --ink:#F7F5EE; --paper:#080909; --accent:#F5A11B; --warm:#DB592D; --line:#F5A11B; --grid:#343533; --card:#151616; --shadow:#DB592D; }
+  </style>
+</head>
+<body class="style-s04">
+  <!-- Choose style-s01...style-s05, then rebuild the layout and visual device for that system. -->
+  <section class="slide"><div class="content"><span class="eyebrow">账号名 · 内容系列</span><h1>一个具体的<br>读者问题</h1><p>副标题只解释承诺，不重复标题。</p><div class="card"><span class="big-number">01</span><p>放一张真实材料、截图、图解或对象，而不是装饰。</p></div><div class="footer"><span>来源 / 主题标签</span><span>01 / 06</span></div></div></section>
+  <section class="slide"><div class="content"><span class="eyebrow">关键观察</span><h2>一页只推进<br>一个判断</h2><p>先给读者能看见的事实，再写你的解释。</p><div class="card"><p>这里替换为证据、对比、示意图或步骤。保持可扫读，不把正文塞进图片。</p></div><div class="footer"><span>主来源名称</span><span>02 / 06</span></div></div></section>
+  <section class="slide"><div class="content"><span class="eyebrow">最后一页</span><h2>给一个具体的<br>下一步</h2><p>问读者的经验、选择或反例；不要用空泛的“你觉得呢”。</p><div class="card"><p>完整来源放在发布文案或这里的可读注释中。</p></div><div class="footer"><span>账号名</span><span>06 / 06</span></div></div></section>
+</body>
+</html>
