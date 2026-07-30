@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书内容工作室"
+  short_description: "从真实来源到可发布图文的完整小红书内容制作工作流"
+  default_prompt: "Use $xhs-content-studio to turn my sources and selected visual style into a confirmed, publish-ready Xiaohongshu carousel."
