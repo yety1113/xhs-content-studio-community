@@ -23,7 +23,7 @@ Require at least one visual route before producing any cover, carousel, or video
 
 If none is supplied, stop before artwork and ask the user to choose a route. Do not silently fall back to a generic template. Convert the chosen route into a visual brief: style code/name, source images, palette, cover skeleton, type hierarchy, imagery/portrait rules, and repetition rule across a series. Use an account's own avatar only with supplied authorization; do not recreate a competitor's mascot, person, logo, or recognisable cover composition.
 
-For a new account, present the five library options in a short selection list. The user may combine only one *layout family* with one *palette family*; avoid indiscriminate mixing.
+For a new account, present the six library options in a short selection list. The user may combine only one *layout family* with one *palette family*; avoid indiscriminate mixing. For S06 World Quest Board, treat the world, task panels, and progress UI as an original account system—not material to copy from a reference cover.
 
 ## 3. Build a source ledger before choosing topics
 

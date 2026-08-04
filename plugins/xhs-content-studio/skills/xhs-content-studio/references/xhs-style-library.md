@@ -1,6 +1,6 @@
 # Xiaohongshu visual style library
 
-Use this library only after the account visual intake is complete. The five systems below were abstracted from supplied cover references; they are layout and hierarchy studies, not cover templates to copy. Never reproduce another creator's mascot, face, signature illustration, logo, wording, or one-to-one composition.
+Use this library only after the account visual intake is complete. The six systems below were abstracted from supplied cover references; they are layout and hierarchy studies, not cover templates to copy. Never reproduce another creator's mascot, face, signature illustration, logo, wording, or one-to-one composition.
 
 ## Choose a system
 
@@ -11,6 +11,7 @@ Use this library only after the account visual intake is complete. The five syst
 | S03 | Neon Collage Lab | creative tools, skills, visual experiments, high-energy launches | the post has only abstract information and no strong image material |
 | S04 | Dark Research Board | analysis, technology, frameworks, industry explanation | lifestyle, gentle personal storytelling, or very dense long copy |
 | S05 | Black Amber Review | rapid opinions, news takes, product/video commentary | the account has no usable portrait/product footage and does not want a host-led identity |
+| S06 | World Quest Board | learning journeys, game-making, creator challenges, child-friendly education | sober research, text-heavy argument, or an account without original/authorised world imagery |
 
 ## S01 — Blue Sketch IP
 
@@ -66,6 +67,17 @@ Use this library only after the account visual intake is complete. The five syst
 - Repeat: black ground, orange key word, host/object cutout, and upper-left section label; vary crop and object scale.
 - Image rule: use the account's own portrait/footage/product screenshots. Never generate a fake talking-head image that could be mistaken for the creator.
 - Best cover promise: “它真的反超了吗 / 这东西值不值得 / 上线前先看这一点”。
+
+## S06 — World Quest Board / 世界探索任务板
+
+**Read as:** a playable learning journey: each post feels like a clearly scoped mission inside an original world.
+
+- Palette: deep forest `#193C2B`; moss `#5B8F52`; parchment `#F5E7B8`; river `#69B9C6`; brick `#B9573C`; ink `#163126`.
+- Cover skeleton: 12–16% level/mission badge at the top; 36–42% large, high-contrast 2–3 line outcome title; 24–30% original low-poly or isometric world/game scene; 12–16% compact mission card, progress bar, map, or checklist; 6% series marker. The title must remain the first thing read.
+- Type: chunky rounded display title with a dark green outline or shadow; task labels in a clean UI sans. Keep the title to 12–18 Chinese characters where possible; do not turn the task panel into tiny copy.
+- Repeat: keep one original biome language, mission badge, progress device, and map/card shape. Change the mission, biome, object, route, or evidence on every cover so a series does not become one reused landscape.
+- Image rule: use an account-owned game screenshot, original/licensed low-poly/isometric artwork, or a newly generated original scene. If a host/avatar appears, use only a supplied or explicitly approved likeness. Do not imitate a reference creator's child character, scene arrangement, title lettering, branded tool name, poem text, or game UI.
+- Best cover promise: “完成这个小任务，你就能做出一个能玩的 ___ / 用 AI 把一个灵感变成第一关 / 第 N 关：做出 ___”。
 
 ## Selection and adaptation rules
 

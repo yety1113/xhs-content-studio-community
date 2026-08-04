@@ -44,8 +44,8 @@ Provide a profile, prior posts, audience, business goal, and available sources. 
    Avatar + 3–6 profile/post screenshots. Specify whether the avatar appears on every, selected, or no covers.
 2. **参考路线 / Reference route**：3–5 个参考，并写明“借什么 / 不借什么”。
    3–5 references, plus “borrow / do not copy” notes.
-3. **风格库路线 / Library route**：直接选择 S01–S05。
-   Select S01–S05 directly.
+3. **风格库路线 / Library route**：直接选择 S01–S06。
+   Select S01–S06 directly.
 
 没有任一视觉输入时，插件应暂停在制作前，而不是默认套一个“AI 教程模板”。
 
@@ -110,7 +110,7 @@ Deliver: image order, contact sheet, title options, caption, tags, source note, 
 | 账号定位 / Account identity | 主页、旧笔记、受众、目标 | 选题边界、语言、CTA、内容支柱 |
 | 信息源 / Source pool | RSS、公众号、链接、评论、访谈、产品素材 | 事实基础、选题新鲜度、可引用材料 |
 | 选题结构 / Topic format | 机制拆解 / 材料故事 / 可执行实验，或自定义 | 图文叙事、读者收获、互动方式 |
-| 视觉路线 / Visual route | 账号素材 / 参考 / S01–S05 | 配色、封面骨架、字体层级、头像/IP使用规则 |
+| 视觉路线 / Visual route | 账号素材 / 参考 / S01–S06 | 配色、封面骨架、字体层级、头像/IP使用规则 |
 | 系列规则 / Series rules | 栏目名、更新频率、固定标识、封面节奏 | 账号统一感与连续阅读体验 |
 | 最终格式 / Delivery format | 图文、图文提纲、视频提纲、发布包 | 输出文件、页面数量、质检方式 |
 
@@ -123,6 +123,7 @@ Deliver: image order, contact sheet, title options, caption, tags, source note, 
 | S03 | 霓虹拼贴实验室 / Neon Collage Lab | 创意工具、Skill、强视觉实验 / creative tools, skills, visual experiments |
 | S04 | 深色研究板 / Dark Research Board | 游戏机制、技术分析、行业拆解 / game mechanics, technology, industry analysis |
 | S05 | 黑橙评论台 / Black Amber Review | 热点观点、产品评测、视频评论 / commentary, product takes, video reviews |
+| S06 | 世界探索任务板 / World Quest Board | 学习旅程、AI 做游戏、创作挑战、友好教育 / learning journeys, AI game-making, creator challenges, child-friendly education |
 
 风格库沉淀配色、层级、版式骨架与系列规则；不提供对参考账号的临摹。
 The library captures palettes, hierarchy, layout skeletons, and series rules; it is not a cloning kit for reference accounts.
@@ -165,7 +166,7 @@ Give me three topic cards first. Do not create visual assets until I approve one
 - [ ] 账号名称、受众、目标 / Account name, audience, goal
 - [ ] 主页/旧笔记，或一句明确的账号定位 / Profile/prior posts, or a clear account positioning statement
 - [ ] 至少一个来源池：链接、RSS、公众号、采访、评论或产品材料 / At least one source pool: links, RSS, WeChat articles, interviews, comments, or product material
-- [ ] 一条视觉路线：账号资产、参考或 S01–S05 / One visual route: account assets, references, or S01–S05
+- [ ] 一条视觉路线：账号资产、参考或 S01–S06 / One visual route: account assets, references, or S01–S06
 - [ ] 你希望先停在哪个阶段：只做选题、做提纲，还是做完整图文 / Where to stop: topics only, outline, or full carousel
 
 ## 更新 / Update
